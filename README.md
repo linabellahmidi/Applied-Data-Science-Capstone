@@ -1,1 +1,2 @@
 # Applied-Data-Science-Capstone
+ This is the final project and exam of the IBM data science professional certificate, the goal is to predict wether the spaceX two stage rocket falcon 9's first stage will land succesfully. We first collect the data from wikipedia with web scarping, we then do some data wrangling, exploratory data analysis with sql, pandas and matplotlib, then we visualize the data in map with follium and we finally build a dashboard app with Plotly Dash to interactively react with data.
